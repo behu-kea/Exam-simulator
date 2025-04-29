@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/exam-simulator/static/css/main.82b4076b.css",
-    "main.js": "/exam-simulator/static/js/main.b8b892bd.js",
+    "main.js": "/exam-simulator/static/js/main.a186f6f9.js",
     "static/js/453.bb53e782.chunk.js": "/exam-simulator/static/js/453.bb53e782.chunk.js",
     "static/media/logo.png": "/exam-simulator/static/media/logo.f82e9b64b7fcefa35937.png",
     "index.html": "/exam-simulator/index.html",
     "main.82b4076b.css.map": "/exam-simulator/static/css/main.82b4076b.css.map",
-    "main.b8b892bd.js.map": "/exam-simulator/static/js/main.b8b892bd.js.map",
+    "main.a186f6f9.js.map": "/exam-simulator/static/js/main.a186f6f9.js.map",
     "453.bb53e782.chunk.js.map": "/exam-simulator/static/js/453.bb53e782.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82b4076b.css",
-    "static/js/main.b8b892bd.js"
+    "static/js/main.a186f6f9.js"
   ]
 }
